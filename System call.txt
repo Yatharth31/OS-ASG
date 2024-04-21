@@ -1,0 +1,10 @@
+File management, process control and file permission
+
+what are system calls?
+provide an interface to services provided by OS
+User mode and kernel mode
+kernel mode -> previleged mode
+user mode -> safe mode
+
+User mode will need request to ceratin resources this is done by call. So context switching occurs to kernel mode. This call is System call.
+
